@@ -1,4 +1,4 @@
-Ti.UI.backgroundColor = 'Black';
+Ti.UI.backgroundColor = 'Black';//just need the layout code
 
 var win = Ti.UI.createWindow();
 
